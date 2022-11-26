@@ -46,11 +46,11 @@ This file tells your server to access your custom file.
 
 Edit it to look like this: 
 
-	"objectSpawnersArr": ["custom/livonia-hrud-pub.json","custom/livonia-sitnickie-pub.json"]
+	"objectSpawnersArr": ["custom/livonia-hrud-pub.json","custom/livonia-sitnickie-pub.json"],
 	
 If you already are calling custom jsons to spawn items, seperate the files like this:
 
-	"objectSpawnersArr": ["custom/livonia-hrud-pub.json","custom/livonia-sitnickie-pub.json","custom/differentfile.json"]
+	"objectSpawnersArr": ["custom/livonia-hrud-pub.json","custom/livonia-sitnickie-pub.json","custom/differentfile.json"],
 	
 Save your changes & upload if you need to.
 	
